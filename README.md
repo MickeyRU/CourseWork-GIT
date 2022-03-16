@@ -7,4 +7,4 @@
 2. Коммуникабельность.
 3. Умение продавать свои идеи и себя.
 
-![photo](/Users/pavelafanasev/Desktop/CourseWork GIT/img)
+![photo](/img)
